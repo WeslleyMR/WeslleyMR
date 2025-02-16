@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 👨‍💻 Estudante de Front e Back-End<br>🏫 Cursando ADS no Centro Universitário Eniac<br>🌟 A procura de estágio 
 
 
